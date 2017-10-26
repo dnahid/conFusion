@@ -1,4 +1,4 @@
-########## conFustion #########
+## ConFusion
 
 * Hybrid Mobiel Application.
 Technology Stacak:
